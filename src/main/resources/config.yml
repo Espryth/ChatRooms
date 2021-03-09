@@ -1,0 +1,5 @@
+chatrooms:
+  park:
+    prefix: "&9[Park] &f%player% &8> "
+    joinTitle: "&9&lEntering to;&bChat room Park;10;20;10"
+    leftTitle: "&9&lLeaving the;&bChat room Park;10;20;10"
